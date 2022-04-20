@@ -1,0 +1,26 @@
+{
+  "unversionedId": "guides/analytics-seo/performance",
+  "id": "guides/analytics-seo/performance",
+  "title": "Website Performance",
+  "description": "Recommendations",
+  "source": "@site/docs/guides/analytics-seo/performance.md",
+  "sourceDirName": "guides/analytics-seo",
+  "slug": "/guides/analytics-seo/performance",
+  "permalink": "/guides/analytics-seo/performance",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/guides/analytics-seo/performance.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "guidesSidebar",
+  "previous": {
+    "title": "Google Analytics",
+    "permalink": "/guides/analytics-seo/analytics"
+  },
+  "next": {
+    "title": "Getting Started",
+    "permalink": "/challenges/intro"
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "pluginId": "default",
+  "version": "current",
+  "label": "Next",
+  "banner": null,
+  "badge": false,
+  "className": "docs-version-current",
+  "isLast": true,
+  "docsSidebars": {
+    "guidesSidebar": [
+      {
+        "type": "link",
+        "label": "Introduction",
+        "href": "/",
+        "docId": "intro"
+      },
+      {
+        "type": "category",
+        "label": "Community",
+        "collapsible": false,
+        "collapsed": false,
+        "items": [
+          {
+            "type": "link",
+            "label": "Documentation",
+            "href": "/community/docs",
+            "docId": "community/docs"
+          },
+          {
+            "type": "link",
+            "label": "Discord Bot",
+            "href": "/community/discord-bot",
+            "docId": "community/discord-bot"
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Guides",
+        "collapsible": false,
+        "collapsed": false,
+        "items": [
+          {
+            "type": "category",
+            "label": "HTML & CSS",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Libraries",
+                "href": "/guides/html-css/libraries",
+                "docId": "guides/html-css/libraries"
+              },
+              {
+                "type": "link",
+                "label": "Tips & Tricks",
+                "href": "/guides/html-css/tips-tricks",
+                "docId": "guides/html-css/tips-tricks"
+              },
+              {
+                "type": "link",
+                "label": "Resources",
+                "href": "/guides/html-css/resources",
+                "docId": "guides/html-css/resources"
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "JavaScript",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Libraries",
+                "href": "/guides/javascript/libraries",
+                "docId": "guides/javascript/libraries"
+              },
+              {
+                "type": "link",
+                "label": "Tips & Tricks",
+                "href": "/guides/javascript/tips-tricks",
+                "docId": "guides/javascript/tips-tricks"
+              },
+              {
+                "type": "link",
+                "label": "Resources",
+                "href": "/guides/javascript/resources",
+                "docId": "guides/javascript/resources"
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "Design",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Libraries",
+                "href": "/guides/design/libraries",
+                "docId": "guides/design/libraries"
+              },
+              {
+                "type": "link",
+                "label": "Accessibility",
+                "href": "/guides/design/accessibility",
+                "docId": "guides/design/accessibility"
+              },
+              {
+                "type": "link",
+                "label": "Resources",
+                "href": "/guides/design/resources",
+                "docId": "guides/design/resources"
+              }
+            ]
+          },
+          {
+            "type": "category",
+            "label": "Analytics & SEO",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "HTML Metadata",
+                "href": "/guides/analytics-seo/meta",
+                "docId": "guides/analytics-seo/meta"
+              },
+              {
+                "type": "link",
+                "label": "Google Analytics",
+                "href": "/guides/analytics-seo/analytics",
+                "docId": "guides/analytics-seo/analytics"
+              },
+              {
+                "type": "link",
+                "label": "Website Performance",
+                "href": "/guides/analytics-seo/performance",
+                "docId": "guides/analytics-seo/performance"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "type": "category",
+        "label": "Challenges",
+        "collapsible": false,
+        "collapsed": false,
+        "items": [
+          {
+            "type": "link",
+            "label": "Getting Started",
+            "href": "/challenges/intro",
+            "docId": "challenges/intro"
+          },
+          {
+            "type": "category",
+            "label": "Task 1: Forms",
+            "collapsible": true,
+            "collapsed": true,
+            "items": [
+              {
+                "type": "link",
+                "label": "Assignment Details",
+                "href": "/challenges/task-1/assignment",
+                "docId": "challenges/task-1/assignment"
+              },
+              {
+                "type": "link",
+                "label": "Answer",
+                "href": "/challenges/task-1/answer",
+                "docId": "challenges/task-1/answer"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "docs": {
+    "challenges/intro": {
+      "id": "challenges/intro",
+      "title": "Getting Started",
+      "description": "",
+      "sidebar": "guidesSidebar"
+    },
+    "challenges/task-1/answer": {
+      "id": "challenges/task-1/answer",
+      "title": "Answer",
+      "description": "",
+      "sidebar": "guidesSidebar"
+    },
+    "challenges/task-1/assignment": {
+      "id": "challenges/task-1/assignment",
+      "title": "Assignment Details",
+      "description": "",
+      "sidebar": "guidesSidebar"
+    },
+    "community/discord-bot": {
+      "id": "community/discord-bot",
+      "title": "Discord Bot",
+      "description": "Getting Started",
+      "sidebar": "guidesSidebar"
+    },
+    "community/docs": {
+      "id": "community/docs",
+      "title": "Documentation",
+      "description": "Getting Started",
+      "sidebar": "guidesSidebar"
+    },
+    "guides/analytics-seo/analytics": {
+      "id": "guides/analytics-seo/analytics",
+      "title": "Google Analytics",
+      "description": "",
+      "sidebar": "guidesSidebar"
+    },
+    "guides/analytics-seo/meta": {
+      "id": "guides/analytics-seo/meta",
+      "title": "HTML Metadata",
+      "description": "Basic Meta Tags",
+      "sidebar": "guidesSidebar"
+    },
+    "guides/analytics-seo/performance": {
+      "id": "guides/analytics-seo/performance",
+      "title": "Website Performance",
+      "description": "Recommendations",
+      "sidebar": "guidesSidebar"
+    },
+    "guides/design/accessibility": {
+      "id": "guides/design/accessibility",
+      "title": "Accessibility",
+      "description": "Web Content Accessibility Guidelines (WCAG)",
+      "sidebar": "guidesSidebar"
+    },
+    "guides/design/libraries": {
+      "id": "guides/design/libraries",
+      "title": "Libraries",
+      "description": "Icon Libraries",
+      "sidebar": "guidesSidebar"
+    },
+    "guides/design/resources": {
+      "id": "guides/design/resources",
+      "title": "Resources",
+      "description": "Free Applications",
+      "sidebar": "guidesSidebar"
+    },
+    "guides/html-css/libraries": {
+      "id": "guides/html-css/libraries",
+      "title": "Libraries",
+      "description": "Bootstrap",
+      "sidebar": "guidesSidebar"
+    },
+    "guides/html-css/resources": {
+      "id": "guides/html-css/resources",
+      "title": "Resources",
+      "description": "Learn HTML & CSS",
+      "sidebar": "guidesSidebar"
+    },
+    "guides/html-css/tips-tricks": {
+      "id": "guides/html-css/tips-tricks",
+      "title": "Tips & Tricks",
+      "description": "",
+      "sidebar": "guidesSidebar"
+    },
+    "guides/javascript/libraries": {
+      "id": "guides/javascript/libraries",
+      "title": "Libraries",
+      "description": "React",
+      "sidebar": "guidesSidebar"
+    },
+    "guides/javascript/resources": {
+      "id": "guides/javascript/resources",
+      "title": "Resources",
+      "description": "Learn JavaScript",
+      "sidebar": "guidesSidebar"
+    },
+    "guides/javascript/tips-tricks": {
+      "id": "guides/javascript/tips-tricks",
+      "title": "Tips & Tricks",
+      "description": "",
+      "sidebar": "guidesSidebar"
+    },
+    "intro": {
+      "id": "intro",
+      "title": "Introduction",
+      "description": "Let's discover Docusaurus in less than 5 minutes.",
+      "sidebar": "guidesSidebar"
+    }
+  }
+}

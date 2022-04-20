@@ -1,0 +1,26 @@
+{
+  "unversionedId": "guides/analytics-seo/analytics",
+  "id": "guides/analytics-seo/analytics",
+  "title": "Google Analytics",
+  "description": "",
+  "source": "@site/docs/guides/analytics-seo/analytics.md",
+  "sourceDirName": "guides/analytics-seo",
+  "slug": "/guides/analytics-seo/analytics",
+  "permalink": "/guides/analytics-seo/analytics",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/guides/analytics-seo/analytics.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 2,
+  "frontMatter": {
+    "sidebar_position": 2
+  },
+  "sidebar": "guidesSidebar",
+  "previous": {
+    "title": "HTML Metadata",
+    "permalink": "/guides/analytics-seo/meta"
+  },
+  "next": {
+    "title": "Website Performance",
+    "permalink": "/guides/analytics-seo/performance"
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "unversionedId": "guides/javascript/resources",
+  "id": "guides/javascript/resources",
+  "title": "Resources",
+  "description": "Learn JavaScript",
+  "source": "@site/docs/guides/javascript/resources.md",
+  "sourceDirName": "guides/javascript",
+  "slug": "/guides/javascript/resources",
+  "permalink": "/guides/javascript/resources",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/guides/javascript/resources.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3
+  },
+  "sidebar": "guidesSidebar",
+  "previous": {
+    "title": "Tips & Tricks",
+    "permalink": "/guides/javascript/tips-tricks"
+  },
+  "next": {
+    "title": "Libraries",
+    "permalink": "/guides/design/libraries"
+  }
+}

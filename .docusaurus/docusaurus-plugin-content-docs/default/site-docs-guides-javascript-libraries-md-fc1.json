@@ -1,0 +1,26 @@
+{
+  "unversionedId": "guides/javascript/libraries",
+  "id": "guides/javascript/libraries",
+  "title": "Libraries",
+  "description": "React",
+  "source": "@site/docs/guides/javascript/libraries.md",
+  "sourceDirName": "guides/javascript",
+  "slug": "/guides/javascript/libraries",
+  "permalink": "/guides/javascript/libraries",
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/guides/javascript/libraries.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "guidesSidebar",
+  "previous": {
+    "title": "Resources",
+    "permalink": "/guides/html-css/resources"
+  },
+  "next": {
+    "title": "Tips & Tricks",
+    "permalink": "/guides/javascript/tips-tricks"
+  }
+}

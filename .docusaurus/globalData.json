@@ -1,0 +1,117 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "challenges/intro",
+              "path": "/challenges/intro",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "challenges/task-1/answer",
+              "path": "/challenges/task-1/answer",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "challenges/task-1/assignment",
+              "path": "/challenges/task-1/assignment",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "community/discord-bot",
+              "path": "/community/discord-bot",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "community/docs",
+              "path": "/community/docs",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "guides/analytics-seo/analytics",
+              "path": "/guides/analytics-seo/analytics",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "guides/analytics-seo/meta",
+              "path": "/guides/analytics-seo/meta",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "guides/analytics-seo/performance",
+              "path": "/guides/analytics-seo/performance",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "guides/design/accessibility",
+              "path": "/guides/design/accessibility",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "guides/design/libraries",
+              "path": "/guides/design/libraries",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "guides/design/resources",
+              "path": "/guides/design/resources",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "guides/html-css/libraries",
+              "path": "/guides/html-css/libraries",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "guides/html-css/resources",
+              "path": "/guides/html-css/resources",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "guides/html-css/tips-tricks",
+              "path": "/guides/html-css/tips-tricks",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "guides/javascript/libraries",
+              "path": "/guides/javascript/libraries",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "guides/javascript/resources",
+              "path": "/guides/javascript/resources",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "guides/javascript/tips-tricks",
+              "path": "/guides/javascript/tips-tricks",
+              "sidebar": "guidesSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/",
+              "sidebar": "guidesSidebar"
+            }
+          ],
+          "sidebars": {
+            "guidesSidebar": {
+              "link": {
+                "path": "/",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

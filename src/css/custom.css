@@ -1,0 +1,153 @@
+/**
+ * Any CSS included here will be global. The classic template
+ * bundles Infima by default. Infima is a CSS framework designed to
+ * work well for content-centric websites.
+ */
+
+/* You can override the default Infima variables here. */
+:root {
+  --ifm-color-primary: #2788ff;
+  --ifm-color-primary-dark: #29784c;
+  --ifm-color-primary-darker: #277148;
+  --ifm-color-primary-darkest: #205d3b;
+  --ifm-color-primary-light: #33925d;
+  --ifm-color-primary-lighter: #359962;
+  --ifm-color-primary-lightest: #3cad6e;
+  --ifm-code-font-size: 95%;
+  --ifm-menu-color-background-active: #eaeef1;
+  --ifm-menu-color-background-hover: #eaeef1;
+  --ifm-theme-doc-sidebar-background: #f4f7f9;
+  --ifm-theme-doc-sidebar-border: #d3dce4;
+}
+
+/* For readability concerns, you should choose a lighter palette in dark mode. */
+[data-theme='dark'] {
+  --ifm-color-primary: #6bb6f5;
+  --ifm-color-primary-dark: #21af90;
+  --ifm-color-primary-darker: #1fa588;
+  --ifm-color-primary-darkest: #1a8870;
+  --ifm-color-primary-light: #29d5b0;
+  --ifm-color-primary-lighter: #32d8b4;
+  --ifm-color-primary-lightest: #4fddbf;
+  --ifm-menu-color-background-active: #2f3031;
+  --ifm-menu-color-background-hover: #2f3031;
+  --ifm-theme-doc-sidebar-background: #18191a;
+  --ifm-theme-doc-sidebar-border: #5f6770;
+}
+
+.docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.1);
+  display: block;
+  margin: 0 calc(-1 * var(--ifm-pre-padding));
+  padding: 0 var(--ifm-pre-padding);
+}
+
+[data-theme='dark'] .docusaurus-highlight-code-line {
+  background-color: rgba(0, 0, 0, 0.3);
+}
+
+.theme-doc-sidebar-item-category-level-1,
+.theme-doc-sidebar-item-link-level-1{
+  margin-bottom: 10px;
+}
+/* 
+.menu__link--sublist-caret:after {
+  content: '';
+  min-width: 1.25rem;
+  background: var(--ifm-menu-link-sublist-icon) 50% / 2rem 2rem;
+  filter: var(--ifm-menu-link-sublist-icon-filter);
+  height: 1.25rem;
+  transform: rotate(180deg);
+  width: 1.25rem;
+  transition: transform var(--ifm-transition-fast) linear;
+} */
+
+.menu__list-item-collapsible a:not([href]):after {
+  display: none;
+}
+.menu__list-item-collapsible:hover {
+  background: transparent;
+}
+
+.theme-doc-sidebar-item-category .menu__list-item-collapsible a:not([href]){
+  font-size: 12px;
+  text-transform: uppercase;
+  color: #8899a8;
+  letter-spacing: 1.2px;
+  font-weight: 500;
+  margin-top: 1rem;
+}
+
+aside.theme-doc-sidebar-container{
+  border-right: 1px solid var(--ifm-theme-doc-sidebar-border);
+  background: var(--ifm-theme-doc-sidebar-background);
+}
+
+.navbar__logo img{
+  border-radius: 900px;
+}
+
+@media (min-width: 997px){
+  .menu_node_modules-\@docusaurus-theme-classic-lib-next-theme-DocSidebar-Desktop-Content-styles-module {
+    padding: 1rem 0 1rem 1rem !important;
+  }
+}
+
+.menu__list .menu__list{
+  padding-left: 0;
+}
+
+.menu__list .menu__list .menu__list{
+  /* padding-bottom: 10px; */
+  margin-left: var(--ifm-menu-link-padding-horizontal);
+  border-left: 2px solid var(--ifm-theme-doc-sidebar-border);
+}
+
+.menu__link:not(.menu__link--sublist){
+  font-weight: initial;
+  font-size: 16px;
+  border-top-right-radius: initial;
+  border-bottom-right-radius: initial;
+}
+
+.menu__link:not(.menu__link--sublist):hover{
+  border-right: 1px solid var(--ifm-theme-doc-sidebar-border);
+}
+
+.menu__list .menu__list .menu__list .menu__link{
+  /* border-right: 2px solid transparent; */
+  border-radius: initial;
+}
+
+.menu__list .menu__list .menu__list .menu__link--active{
+  /* border-color: var(--ifm-color-primary); */
+}
+
+.menu__list-item-collapsible .menu__link--sublist-caret{
+  font-weight: initial;
+  font-size: 16px;
+  color: var(--ifm-menu-color);
+}
+
+.menu__link--active:not(.menu__link--sublist){
+  border-right: 1px solid var(--ifm-theme-doc-sidebar-border);
+}
+
+.menu__list .menu__list .menu__list .menu__link,
+.menu__list .menu__list .menu__list .menu__link:hover {
+  border-right: 1px solid var(--ifm-theme-doc-sidebar-border);
+  border-radius: initial;
+}
+
+.menu__link--sublist-caret:after {
+  content: '';
+  min-width: 1.25rem;
+  background: var(--ifm-menu-link-sublist-icon);
+  background-size: 100%;
+  background-position: center;
+  filter: var(--ifm-menu-link-sublist-icon-filter);
+  height: 1.25rem;
+  transform: rotate(180deg);
+  width: 1.25rem;
+  transition: transform var(--ifm-transition-fast) linear;
+}
