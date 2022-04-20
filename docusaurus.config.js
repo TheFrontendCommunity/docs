@@ -50,12 +50,12 @@ const config = {
           src: 'img/logo.jpg',
         },
         items: [
-          // {
-          //   type: 'doc',
-          //   docId: 'intro',
-          //   position: 'left',
-          //   label: 'Guides',
-          // },
+          {
+            type: 'doc',
+            docId: 'intro',
+            position: 'left',
+            label: 'Guides',
+          },
           // {
           //   to: '/blog', 
           //   label: 'Blog', 
