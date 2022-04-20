@@ -6,7 +6,7 @@
   "source": "@site/docs/community/discord-bot.md",
   "sourceDirName": "community",
   "slug": "/community/discord-bot",
-  "permalink": "/community/discord-bot",
+  "permalink": "/docs/community/discord-bot",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/community/discord-bot.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "guidesSidebar",
   "previous": {
     "title": "Documentation",
-    "permalink": "/community/docs"
+    "permalink": "/docs/community/docs"
   },
   "next": {
     "title": "Libraries",
-    "permalink": "/guides/html-css/libraries"
+    "permalink": "/docs/guides/html-css/libraries"
   }
 }

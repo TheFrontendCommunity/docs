@@ -11,7 +11,7 @@
       {
         "type": "link",
         "label": "Introduction",
-        "href": "/",
+        "href": "/docs/intro",
         "docId": "intro"
       },
       {
@@ -23,13 +23,13 @@
           {
             "type": "link",
             "label": "Documentation",
-            "href": "/community/docs",
+            "href": "/docs/community/docs",
             "docId": "community/docs"
           },
           {
             "type": "link",
             "label": "Discord Bot",
-            "href": "/community/discord-bot",
+            "href": "/docs/community/discord-bot",
             "docId": "community/discord-bot"
           }
         ]
@@ -49,19 +49,19 @@
               {
                 "type": "link",
                 "label": "Libraries",
-                "href": "/guides/html-css/libraries",
+                "href": "/docs/guides/html-css/libraries",
                 "docId": "guides/html-css/libraries"
               },
               {
                 "type": "link",
                 "label": "Tips & Tricks",
-                "href": "/guides/html-css/tips-tricks",
+                "href": "/docs/guides/html-css/tips-tricks",
                 "docId": "guides/html-css/tips-tricks"
               },
               {
                 "type": "link",
                 "label": "Resources",
-                "href": "/guides/html-css/resources",
+                "href": "/docs/guides/html-css/resources",
                 "docId": "guides/html-css/resources"
               }
             ]
@@ -75,19 +75,19 @@
               {
                 "type": "link",
                 "label": "Libraries",
-                "href": "/guides/javascript/libraries",
+                "href": "/docs/guides/javascript/libraries",
                 "docId": "guides/javascript/libraries"
               },
               {
                 "type": "link",
                 "label": "Tips & Tricks",
-                "href": "/guides/javascript/tips-tricks",
+                "href": "/docs/guides/javascript/tips-tricks",
                 "docId": "guides/javascript/tips-tricks"
               },
               {
                 "type": "link",
                 "label": "Resources",
-                "href": "/guides/javascript/resources",
+                "href": "/docs/guides/javascript/resources",
                 "docId": "guides/javascript/resources"
               }
             ]
@@ -101,19 +101,19 @@
               {
                 "type": "link",
                 "label": "Libraries",
-                "href": "/guides/design/libraries",
+                "href": "/docs/guides/design/libraries",
                 "docId": "guides/design/libraries"
               },
               {
                 "type": "link",
                 "label": "Accessibility",
-                "href": "/guides/design/accessibility",
+                "href": "/docs/guides/design/accessibility",
                 "docId": "guides/design/accessibility"
               },
               {
                 "type": "link",
                 "label": "Resources",
-                "href": "/guides/design/resources",
+                "href": "/docs/guides/design/resources",
                 "docId": "guides/design/resources"
               }
             ]
@@ -127,19 +127,19 @@
               {
                 "type": "link",
                 "label": "HTML Metadata",
-                "href": "/guides/analytics-seo/meta",
+                "href": "/docs/guides/analytics-seo/meta",
                 "docId": "guides/analytics-seo/meta"
               },
               {
                 "type": "link",
                 "label": "Google Analytics",
-                "href": "/guides/analytics-seo/analytics",
+                "href": "/docs/guides/analytics-seo/analytics",
                 "docId": "guides/analytics-seo/analytics"
               },
               {
                 "type": "link",
                 "label": "Website Performance",
-                "href": "/guides/analytics-seo/performance",
+                "href": "/docs/guides/analytics-seo/performance",
                 "docId": "guides/analytics-seo/performance"
               }
             ]
@@ -155,7 +155,7 @@
           {
             "type": "link",
             "label": "Getting Started",
-            "href": "/challenges/intro",
+            "href": "/docs/challenges/intro",
             "docId": "challenges/intro"
           },
           {
@@ -167,13 +167,13 @@
               {
                 "type": "link",
                 "label": "Assignment Details",
-                "href": "/challenges/task-1/assignment",
+                "href": "/docs/challenges/task-1/assignment",
                 "docId": "challenges/task-1/assignment"
               },
               {
                 "type": "link",
                 "label": "Answer",
-                "href": "/challenges/task-1/answer",
+                "href": "/docs/challenges/task-1/answer",
                 "docId": "challenges/task-1/answer"
               }
             ]

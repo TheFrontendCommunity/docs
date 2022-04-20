@@ -6,7 +6,7 @@
   "source": "@site/docs/guides/analytics-seo/meta.md",
   "sourceDirName": "guides/analytics-seo",
   "slug": "/guides/analytics-seo/meta",
-  "permalink": "/guides/analytics-seo/meta",
+  "permalink": "/docs/guides/analytics-seo/meta",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/guides/analytics-seo/meta.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "guidesSidebar",
   "previous": {
     "title": "Resources",
-    "permalink": "/guides/design/resources"
+    "permalink": "/docs/guides/design/resources"
   },
   "next": {
     "title": "Google Analytics",
-    "permalink": "/guides/analytics-seo/analytics"
+    "permalink": "/docs/guides/analytics-seo/analytics"
   }
 }

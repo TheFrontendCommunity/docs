@@ -6,7 +6,7 @@
   "source": "@site/docs/challenges/task-1/assignment.md",
   "sourceDirName": "challenges/task-1",
   "slug": "/challenges/task-1/assignment",
-  "permalink": "/challenges/task-1/assignment",
+  "permalink": "/docs/challenges/task-1/assignment",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/challenges/task-1/assignment.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "guidesSidebar",
   "previous": {
     "title": "Getting Started",
-    "permalink": "/challenges/intro"
+    "permalink": "/docs/challenges/intro"
   },
   "next": {
     "title": "Answer",
-    "permalink": "/challenges/task-1/answer"
+    "permalink": "/docs/challenges/task-1/answer"
   }
 }

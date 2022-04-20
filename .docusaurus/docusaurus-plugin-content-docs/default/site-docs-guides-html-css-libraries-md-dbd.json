@@ -6,7 +6,7 @@
   "source": "@site/docs/guides/html-css/libraries.md",
   "sourceDirName": "guides/html-css",
   "slug": "/guides/html-css/libraries",
-  "permalink": "/guides/html-css/libraries",
+  "permalink": "/docs/guides/html-css/libraries",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/guides/html-css/libraries.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "guidesSidebar",
   "previous": {
     "title": "Discord Bot",
-    "permalink": "/community/discord-bot"
+    "permalink": "/docs/community/discord-bot"
   },
   "next": {
     "title": "Tips & Tricks",
-    "permalink": "/guides/html-css/tips-tricks"
+    "permalink": "/docs/guides/html-css/tips-tricks"
   }
 }

@@ -1,110 +1,110 @@
 {
   "docusaurus-plugin-content-docs": {
     "default": {
-      "path": "/",
+      "path": "/docs/",
       "versions": [
         {
           "name": "current",
           "label": "Next",
           "isLast": true,
-          "path": "/",
+          "path": "/docs/",
           "mainDocId": "intro",
           "docs": [
             {
               "id": "challenges/intro",
-              "path": "/challenges/intro",
+              "path": "/docs/challenges/intro",
               "sidebar": "guidesSidebar"
             },
             {
               "id": "challenges/task-1/answer",
-              "path": "/challenges/task-1/answer",
+              "path": "/docs/challenges/task-1/answer",
               "sidebar": "guidesSidebar"
             },
             {
               "id": "challenges/task-1/assignment",
-              "path": "/challenges/task-1/assignment",
+              "path": "/docs/challenges/task-1/assignment",
               "sidebar": "guidesSidebar"
             },
             {
               "id": "community/discord-bot",
-              "path": "/community/discord-bot",
+              "path": "/docs/community/discord-bot",
               "sidebar": "guidesSidebar"
             },
             {
               "id": "community/docs",
-              "path": "/community/docs",
+              "path": "/docs/community/docs",
               "sidebar": "guidesSidebar"
             },
             {
               "id": "guides/analytics-seo/analytics",
-              "path": "/guides/analytics-seo/analytics",
+              "path": "/docs/guides/analytics-seo/analytics",
               "sidebar": "guidesSidebar"
             },
             {
               "id": "guides/analytics-seo/meta",
-              "path": "/guides/analytics-seo/meta",
+              "path": "/docs/guides/analytics-seo/meta",
               "sidebar": "guidesSidebar"
             },
             {
               "id": "guides/analytics-seo/performance",
-              "path": "/guides/analytics-seo/performance",
+              "path": "/docs/guides/analytics-seo/performance",
               "sidebar": "guidesSidebar"
             },
             {
               "id": "guides/design/accessibility",
-              "path": "/guides/design/accessibility",
+              "path": "/docs/guides/design/accessibility",
               "sidebar": "guidesSidebar"
             },
             {
               "id": "guides/design/libraries",
-              "path": "/guides/design/libraries",
+              "path": "/docs/guides/design/libraries",
               "sidebar": "guidesSidebar"
             },
             {
               "id": "guides/design/resources",
-              "path": "/guides/design/resources",
+              "path": "/docs/guides/design/resources",
               "sidebar": "guidesSidebar"
             },
             {
               "id": "guides/html-css/libraries",
-              "path": "/guides/html-css/libraries",
+              "path": "/docs/guides/html-css/libraries",
               "sidebar": "guidesSidebar"
             },
             {
               "id": "guides/html-css/resources",
-              "path": "/guides/html-css/resources",
+              "path": "/docs/guides/html-css/resources",
               "sidebar": "guidesSidebar"
             },
             {
               "id": "guides/html-css/tips-tricks",
-              "path": "/guides/html-css/tips-tricks",
+              "path": "/docs/guides/html-css/tips-tricks",
               "sidebar": "guidesSidebar"
             },
             {
               "id": "guides/javascript/libraries",
-              "path": "/guides/javascript/libraries",
+              "path": "/docs/guides/javascript/libraries",
               "sidebar": "guidesSidebar"
             },
             {
               "id": "guides/javascript/resources",
-              "path": "/guides/javascript/resources",
+              "path": "/docs/guides/javascript/resources",
               "sidebar": "guidesSidebar"
             },
             {
               "id": "guides/javascript/tips-tricks",
-              "path": "/guides/javascript/tips-tricks",
+              "path": "/docs/guides/javascript/tips-tricks",
               "sidebar": "guidesSidebar"
             },
             {
               "id": "intro",
-              "path": "/",
+              "path": "/docs/intro",
               "sidebar": "guidesSidebar"
             }
           ],
           "sidebars": {
             "guidesSidebar": {
               "link": {
-                "path": "/",
+                "path": "/docs/intro",
                 "label": "intro"
               }
             }

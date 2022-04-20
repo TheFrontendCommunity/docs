@@ -6,7 +6,7 @@
   "source": "@site/docs/guides/design/accessibility.md",
   "sourceDirName": "guides/design",
   "slug": "/guides/design/accessibility",
-  "permalink": "/guides/design/accessibility",
+  "permalink": "/docs/guides/design/accessibility",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/guides/design/accessibility.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "guidesSidebar",
   "previous": {
     "title": "Libraries",
-    "permalink": "/guides/design/libraries"
+    "permalink": "/docs/guides/design/libraries"
   },
   "next": {
     "title": "Resources",
-    "permalink": "/guides/design/resources"
+    "permalink": "/docs/guides/design/resources"
   }
 }

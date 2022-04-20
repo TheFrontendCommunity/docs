@@ -6,7 +6,7 @@
   "source": "@site/docs/guides/analytics-seo/analytics.md",
   "sourceDirName": "guides/analytics-seo",
   "slug": "/guides/analytics-seo/analytics",
-  "permalink": "/guides/analytics-seo/analytics",
+  "permalink": "/docs/guides/analytics-seo/analytics",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/guides/analytics-seo/analytics.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "guidesSidebar",
   "previous": {
     "title": "HTML Metadata",
-    "permalink": "/guides/analytics-seo/meta"
+    "permalink": "/docs/guides/analytics-seo/meta"
   },
   "next": {
     "title": "Website Performance",
-    "permalink": "/guides/analytics-seo/performance"
+    "permalink": "/docs/guides/analytics-seo/performance"
   }
 }

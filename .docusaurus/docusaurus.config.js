@@ -6,12 +6,12 @@
 export default {
   "title": "The Frontend Community",
   "tagline": "Dinosaurs are cool",
-  "url": "https://your-docusaurus-test-site.com",
-  "baseUrl": "/",
+  "url": "https://TheFrontendCommunity.github.io",
+  "baseUrl": "/docs/",
   "onBrokenLinks": "throw",
   "onBrokenMarkdownLinks": "warn",
-  "organizationName": "facebook",
-  "projectName": "docusaurus",
+  "organizationName": "TheFrontendCommunity",
+  "projectName": "docs",
   "presets": [
     [
       "classic",

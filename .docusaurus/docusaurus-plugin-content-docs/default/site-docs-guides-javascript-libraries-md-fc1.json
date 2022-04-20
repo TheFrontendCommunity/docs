@@ -6,7 +6,7 @@
   "source": "@site/docs/guides/javascript/libraries.md",
   "sourceDirName": "guides/javascript",
   "slug": "/guides/javascript/libraries",
-  "permalink": "/guides/javascript/libraries",
+  "permalink": "/docs/guides/javascript/libraries",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/guides/javascript/libraries.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "guidesSidebar",
   "previous": {
     "title": "Resources",
-    "permalink": "/guides/html-css/resources"
+    "permalink": "/docs/guides/html-css/resources"
   },
   "next": {
     "title": "Tips & Tricks",
-    "permalink": "/guides/javascript/tips-tricks"
+    "permalink": "/docs/guides/javascript/tips-tricks"
   }
 }

@@ -5,8 +5,8 @@
         {
           "versionName": "current",
           "versionLabel": "Next",
-          "versionPath": "/",
-          "tagsPath": "/tags",
+          "versionPath": "/docs/",
+          "tagsPath": "/docs/tags",
           "versionEditUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs",
           "versionEditUrlLocalized": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/i18n/en/docusaurus-plugin-content-docs/current",
           "versionBanner": null,
@@ -26,7 +26,7 @@
               "source": "@site/docs/challenges/intro.md",
               "sourceDirName": "challenges",
               "slug": "/challenges/intro",
-              "permalink": "/challenges/intro",
+              "permalink": "/docs/challenges/intro",
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/challenges/intro.md",
               "tags": [],
               "version": "current",
@@ -37,11 +37,11 @@
               "sidebar": "guidesSidebar",
               "previous": {
                 "title": "Website Performance",
-                "permalink": "/guides/analytics-seo/performance"
+                "permalink": "/docs/guides/analytics-seo/performance"
               },
               "next": {
                 "title": "Assignment Details",
-                "permalink": "/challenges/task-1/assignment"
+                "permalink": "/docs/challenges/task-1/assignment"
               }
             },
             {
@@ -52,7 +52,7 @@
               "source": "@site/docs/challenges/task-1/answer.md",
               "sourceDirName": "challenges/task-1",
               "slug": "/challenges/task-1/answer",
-              "permalink": "/challenges/task-1/answer",
+              "permalink": "/docs/challenges/task-1/answer",
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/challenges/task-1/answer.md",
               "tags": [],
               "version": "current",
@@ -63,7 +63,7 @@
               "sidebar": "guidesSidebar",
               "previous": {
                 "title": "Assignment Details",
-                "permalink": "/challenges/task-1/assignment"
+                "permalink": "/docs/challenges/task-1/assignment"
               }
             },
             {
@@ -74,7 +74,7 @@
               "source": "@site/docs/challenges/task-1/assignment.md",
               "sourceDirName": "challenges/task-1",
               "slug": "/challenges/task-1/assignment",
-              "permalink": "/challenges/task-1/assignment",
+              "permalink": "/docs/challenges/task-1/assignment",
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/challenges/task-1/assignment.md",
               "tags": [],
               "version": "current",
@@ -85,11 +85,11 @@
               "sidebar": "guidesSidebar",
               "previous": {
                 "title": "Getting Started",
-                "permalink": "/challenges/intro"
+                "permalink": "/docs/challenges/intro"
               },
               "next": {
                 "title": "Answer",
-                "permalink": "/challenges/task-1/answer"
+                "permalink": "/docs/challenges/task-1/answer"
               }
             },
             {
@@ -100,7 +100,7 @@
               "source": "@site/docs/community/discord-bot.md",
               "sourceDirName": "community",
               "slug": "/community/discord-bot",
-              "permalink": "/community/discord-bot",
+              "permalink": "/docs/community/discord-bot",
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/community/discord-bot.md",
               "tags": [],
               "version": "current",
@@ -111,11 +111,11 @@
               "sidebar": "guidesSidebar",
               "previous": {
                 "title": "Documentation",
-                "permalink": "/community/docs"
+                "permalink": "/docs/community/docs"
               },
               "next": {
                 "title": "Libraries",
-                "permalink": "/guides/html-css/libraries"
+                "permalink": "/docs/guides/html-css/libraries"
               }
             },
             {
@@ -126,7 +126,7 @@
               "source": "@site/docs/community/docs.md",
               "sourceDirName": "community",
               "slug": "/community/docs",
-              "permalink": "/community/docs",
+              "permalink": "/docs/community/docs",
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/community/docs.md",
               "tags": [],
               "version": "current",
@@ -137,11 +137,11 @@
               "sidebar": "guidesSidebar",
               "previous": {
                 "title": "Introduction",
-                "permalink": "/"
+                "permalink": "/docs/"
               },
               "next": {
                 "title": "Discord Bot",
-                "permalink": "/community/discord-bot"
+                "permalink": "/docs/community/discord-bot"
               }
             },
             {
@@ -152,7 +152,7 @@
               "source": "@site/docs/guides/analytics-seo/analytics.md",
               "sourceDirName": "guides/analytics-seo",
               "slug": "/guides/analytics-seo/analytics",
-              "permalink": "/guides/analytics-seo/analytics",
+              "permalink": "/docs/guides/analytics-seo/analytics",
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/guides/analytics-seo/analytics.md",
               "tags": [],
               "version": "current",
@@ -163,11 +163,11 @@
               "sidebar": "guidesSidebar",
               "previous": {
                 "title": "HTML Metadata",
-                "permalink": "/guides/analytics-seo/meta"
+                "permalink": "/docs/guides/analytics-seo/meta"
               },
               "next": {
                 "title": "Website Performance",
-                "permalink": "/guides/analytics-seo/performance"
+                "permalink": "/docs/guides/analytics-seo/performance"
               }
             },
             {
@@ -178,7 +178,7 @@
               "source": "@site/docs/guides/analytics-seo/meta.md",
               "sourceDirName": "guides/analytics-seo",
               "slug": "/guides/analytics-seo/meta",
-              "permalink": "/guides/analytics-seo/meta",
+              "permalink": "/docs/guides/analytics-seo/meta",
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/guides/analytics-seo/meta.md",
               "tags": [],
               "version": "current",
@@ -189,11 +189,11 @@
               "sidebar": "guidesSidebar",
               "previous": {
                 "title": "Resources",
-                "permalink": "/guides/design/resources"
+                "permalink": "/docs/guides/design/resources"
               },
               "next": {
                 "title": "Google Analytics",
-                "permalink": "/guides/analytics-seo/analytics"
+                "permalink": "/docs/guides/analytics-seo/analytics"
               }
             },
             {
@@ -204,7 +204,7 @@
               "source": "@site/docs/guides/analytics-seo/performance.md",
               "sourceDirName": "guides/analytics-seo",
               "slug": "/guides/analytics-seo/performance",
-              "permalink": "/guides/analytics-seo/performance",
+              "permalink": "/docs/guides/analytics-seo/performance",
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/guides/analytics-seo/performance.md",
               "tags": [],
               "version": "current",
@@ -215,11 +215,11 @@
               "sidebar": "guidesSidebar",
               "previous": {
                 "title": "Google Analytics",
-                "permalink": "/guides/analytics-seo/analytics"
+                "permalink": "/docs/guides/analytics-seo/analytics"
               },
               "next": {
                 "title": "Getting Started",
-                "permalink": "/challenges/intro"
+                "permalink": "/docs/challenges/intro"
               }
             },
             {
@@ -230,7 +230,7 @@
               "source": "@site/docs/guides/design/accessibility.md",
               "sourceDirName": "guides/design",
               "slug": "/guides/design/accessibility",
-              "permalink": "/guides/design/accessibility",
+              "permalink": "/docs/guides/design/accessibility",
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/guides/design/accessibility.md",
               "tags": [],
               "version": "current",
@@ -241,11 +241,11 @@
               "sidebar": "guidesSidebar",
               "previous": {
                 "title": "Libraries",
-                "permalink": "/guides/design/libraries"
+                "permalink": "/docs/guides/design/libraries"
               },
               "next": {
                 "title": "Resources",
-                "permalink": "/guides/design/resources"
+                "permalink": "/docs/guides/design/resources"
               }
             },
             {
@@ -256,7 +256,7 @@
               "source": "@site/docs/guides/design/libraries.md",
               "sourceDirName": "guides/design",
               "slug": "/guides/design/libraries",
-              "permalink": "/guides/design/libraries",
+              "permalink": "/docs/guides/design/libraries",
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/guides/design/libraries.md",
               "tags": [],
               "version": "current",
@@ -267,11 +267,11 @@
               "sidebar": "guidesSidebar",
               "previous": {
                 "title": "Resources",
-                "permalink": "/guides/javascript/resources"
+                "permalink": "/docs/guides/javascript/resources"
               },
               "next": {
                 "title": "Accessibility",
-                "permalink": "/guides/design/accessibility"
+                "permalink": "/docs/guides/design/accessibility"
               }
             },
             {
@@ -282,7 +282,7 @@
               "source": "@site/docs/guides/design/resources.md",
               "sourceDirName": "guides/design",
               "slug": "/guides/design/resources",
-              "permalink": "/guides/design/resources",
+              "permalink": "/docs/guides/design/resources",
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/guides/design/resources.md",
               "tags": [],
               "version": "current",
@@ -293,11 +293,11 @@
               "sidebar": "guidesSidebar",
               "previous": {
                 "title": "Accessibility",
-                "permalink": "/guides/design/accessibility"
+                "permalink": "/docs/guides/design/accessibility"
               },
               "next": {
                 "title": "HTML Metadata",
-                "permalink": "/guides/analytics-seo/meta"
+                "permalink": "/docs/guides/analytics-seo/meta"
               }
             },
             {
@@ -308,7 +308,7 @@
               "source": "@site/docs/guides/html-css/libraries.md",
               "sourceDirName": "guides/html-css",
               "slug": "/guides/html-css/libraries",
-              "permalink": "/guides/html-css/libraries",
+              "permalink": "/docs/guides/html-css/libraries",
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/guides/html-css/libraries.md",
               "tags": [],
               "version": "current",
@@ -319,11 +319,11 @@
               "sidebar": "guidesSidebar",
               "previous": {
                 "title": "Discord Bot",
-                "permalink": "/community/discord-bot"
+                "permalink": "/docs/community/discord-bot"
               },
               "next": {
                 "title": "Tips & Tricks",
-                "permalink": "/guides/html-css/tips-tricks"
+                "permalink": "/docs/guides/html-css/tips-tricks"
               }
             },
             {
@@ -334,7 +334,7 @@
               "source": "@site/docs/guides/html-css/resources.md",
               "sourceDirName": "guides/html-css",
               "slug": "/guides/html-css/resources",
-              "permalink": "/guides/html-css/resources",
+              "permalink": "/docs/guides/html-css/resources",
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/guides/html-css/resources.md",
               "tags": [],
               "version": "current",
@@ -345,11 +345,11 @@
               "sidebar": "guidesSidebar",
               "previous": {
                 "title": "Tips & Tricks",
-                "permalink": "/guides/html-css/tips-tricks"
+                "permalink": "/docs/guides/html-css/tips-tricks"
               },
               "next": {
                 "title": "Libraries",
-                "permalink": "/guides/javascript/libraries"
+                "permalink": "/docs/guides/javascript/libraries"
               }
             },
             {
@@ -360,7 +360,7 @@
               "source": "@site/docs/guides/html-css/tips-tricks.md",
               "sourceDirName": "guides/html-css",
               "slug": "/guides/html-css/tips-tricks",
-              "permalink": "/guides/html-css/tips-tricks",
+              "permalink": "/docs/guides/html-css/tips-tricks",
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/guides/html-css/tips-tricks.md",
               "tags": [],
               "version": "current",
@@ -371,11 +371,11 @@
               "sidebar": "guidesSidebar",
               "previous": {
                 "title": "Libraries",
-                "permalink": "/guides/html-css/libraries"
+                "permalink": "/docs/guides/html-css/libraries"
               },
               "next": {
                 "title": "Resources",
-                "permalink": "/guides/html-css/resources"
+                "permalink": "/docs/guides/html-css/resources"
               }
             },
             {
@@ -386,7 +386,7 @@
               "source": "@site/docs/guides/javascript/libraries.md",
               "sourceDirName": "guides/javascript",
               "slug": "/guides/javascript/libraries",
-              "permalink": "/guides/javascript/libraries",
+              "permalink": "/docs/guides/javascript/libraries",
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/guides/javascript/libraries.md",
               "tags": [],
               "version": "current",
@@ -397,11 +397,11 @@
               "sidebar": "guidesSidebar",
               "previous": {
                 "title": "Resources",
-                "permalink": "/guides/html-css/resources"
+                "permalink": "/docs/guides/html-css/resources"
               },
               "next": {
                 "title": "Tips & Tricks",
-                "permalink": "/guides/javascript/tips-tricks"
+                "permalink": "/docs/guides/javascript/tips-tricks"
               }
             },
             {
@@ -412,7 +412,7 @@
               "source": "@site/docs/guides/javascript/resources.md",
               "sourceDirName": "guides/javascript",
               "slug": "/guides/javascript/resources",
-              "permalink": "/guides/javascript/resources",
+              "permalink": "/docs/guides/javascript/resources",
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/guides/javascript/resources.md",
               "tags": [],
               "version": "current",
@@ -423,11 +423,11 @@
               "sidebar": "guidesSidebar",
               "previous": {
                 "title": "Tips & Tricks",
-                "permalink": "/guides/javascript/tips-tricks"
+                "permalink": "/docs/guides/javascript/tips-tricks"
               },
               "next": {
                 "title": "Libraries",
-                "permalink": "/guides/design/libraries"
+                "permalink": "/docs/guides/design/libraries"
               }
             },
             {
@@ -438,7 +438,7 @@
               "source": "@site/docs/guides/javascript/tips-tricks.md",
               "sourceDirName": "guides/javascript",
               "slug": "/guides/javascript/tips-tricks",
-              "permalink": "/guides/javascript/tips-tricks",
+              "permalink": "/docs/guides/javascript/tips-tricks",
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/guides/javascript/tips-tricks.md",
               "tags": [],
               "version": "current",
@@ -449,11 +449,11 @@
               "sidebar": "guidesSidebar",
               "previous": {
                 "title": "Libraries",
-                "permalink": "/guides/javascript/libraries"
+                "permalink": "/docs/guides/javascript/libraries"
               },
               "next": {
                 "title": "Resources",
-                "permalink": "/guides/javascript/resources"
+                "permalink": "/docs/guides/javascript/resources"
               }
             },
             {
@@ -464,7 +464,7 @@
               "source": "@site/docs/intro.md",
               "sourceDirName": ".",
               "slug": "/",
-              "permalink": "/",
+              "permalink": "/docs/",
               "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/intro.md",
               "tags": [],
               "version": "current",
@@ -477,7 +477,7 @@
               "sidebar": "guidesSidebar",
               "next": {
                 "title": "Documentation",
-                "permalink": "/community/docs"
+                "permalink": "/docs/community/docs"
               }
             }
           ],
@@ -634,7 +634,7 @@
         {
           "id": "welcome",
           "metadata": {
-            "permalink": "/blog/welcome",
+            "permalink": "/docs/blog/welcome",
             "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-26-welcome/index.md",
             "source": "@site/blog/2021-08-26-welcome/index.md",
             "title": "Welcome",
@@ -644,15 +644,15 @@
             "tags": [
               {
                 "label": "facebook",
-                "permalink": "/blog/tags/facebook"
+                "permalink": "/docs/blog/tags/facebook"
               },
               {
                 "label": "hello",
-                "permalink": "/blog/tags/hello"
+                "permalink": "/docs/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/docs/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.36,
@@ -688,7 +688,7 @@
             },
             "nextItem": {
               "title": "MDX Blog Post",
-              "permalink": "/blog/mdx-blog-post"
+              "permalink": "/docs/blog/mdx-blog-post"
             }
           },
           "content": "Simply add Markdown files (or folders) to the `blog` directory.\n\nRegular blog authors can be added to `authors.yml`.\n\nThe blog post date can be extracted from filenames, such as:\n\n- `2019-05-30-welcome.md`\n- `2019-05-30-welcome/index.md`\n\nA blog post folder can be convenient to co-locate blog post images:\n\n![Docusaurus Plushie](./docusaurus-plushie-banner.jpeg)\n\nThe blog supports tags as well!\n\n**And if you don't want a blog**: just delete this directory, and use `blog: false` in your Docusaurus config."
@@ -696,7 +696,7 @@
         {
           "id": "mdx-blog-post",
           "metadata": {
-            "permalink": "/blog/mdx-blog-post",
+            "permalink": "/docs/blog/mdx-blog-post",
             "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2021-08-01-mdx-blog-post.mdx",
             "source": "@site/blog/2021-08-01-mdx-blog-post.mdx",
             "title": "MDX Blog Post",
@@ -706,7 +706,7 @@
             "tags": [
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/docs/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.13,
@@ -732,11 +732,11 @@
             },
             "prevItem": {
               "title": "Welcome",
-              "permalink": "/blog/welcome"
+              "permalink": "/docs/blog/welcome"
             },
             "nextItem": {
               "title": "Long Blog Post",
-              "permalink": "/blog/long-blog-post"
+              "permalink": "/docs/blog/long-blog-post"
             }
           },
           "content": ":::tip\n\nUse the power of React to create interactive blog posts.\n\n```js\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n```\n\n<button onClick={() => alert('button clicked!')}>Click me!</button>\n\n:::"
@@ -744,7 +744,7 @@
         {
           "id": "long-blog-post",
           "metadata": {
-            "permalink": "/blog/long-blog-post",
+            "permalink": "/docs/blog/long-blog-post",
             "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-29-long-blog-post.md",
             "source": "@site/blog/2019-05-29-long-blog-post.md",
             "title": "Long Blog Post",
@@ -754,11 +754,11 @@
             "tags": [
               {
                 "label": "hello",
-                "permalink": "/blog/tags/hello"
+                "permalink": "/docs/blog/tags/hello"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/docs/blog/tags/docusaurus"
               }
             ],
             "readingTime": 2.05,
@@ -783,11 +783,11 @@
             },
             "prevItem": {
               "title": "MDX Blog Post",
-              "permalink": "/blog/mdx-blog-post"
+              "permalink": "/docs/blog/mdx-blog-post"
             },
             "nextItem": {
               "title": "First Blog Post",
-              "permalink": "/blog/first-blog-post"
+              "permalink": "/docs/blog/first-blog-post"
             }
           },
           "content": "This is the summary of a very long blog post,\n\nUse a `<!--` `truncate` `-->` comment to limit blog post size in the list view.\n\n<!--truncate-->\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet\n\nLorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
@@ -795,7 +795,7 @@
         {
           "id": "first-blog-post",
           "metadata": {
-            "permalink": "/blog/first-blog-post",
+            "permalink": "/docs/blog/first-blog-post",
             "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/blog/2019-05-28-first-blog-post.md",
             "source": "@site/blog/2019-05-28-first-blog-post.md",
             "title": "First Blog Post",
@@ -805,11 +805,11 @@
             "tags": [
               {
                 "label": "hola",
-                "permalink": "/blog/tags/hola"
+                "permalink": "/docs/blog/tags/hola"
               },
               {
                 "label": "docusaurus",
-                "permalink": "/blog/tags/docusaurus"
+                "permalink": "/docs/blog/tags/docusaurus"
               }
             ],
             "readingTime": 0.12,
@@ -840,7 +840,7 @@
             },
             "prevItem": {
               "title": "Long Blog Post",
-              "permalink": "/blog/long-blog-post"
+              "permalink": "/docs/blog/long-blog-post"
             }
           },
           "content": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet"
@@ -855,7 +855,7 @@
             "first-blog-post"
           ],
           "metadata": {
-            "permalink": "/blog",
+            "permalink": "/docs/blog",
             "page": 1,
             "postsPerPage": 10,
             "totalPages": 1,
@@ -866,19 +866,19 @@
         }
       ],
       "blogTags": {
-        "/blog/tags/facebook": {
+        "/docs/blog/tags/facebook": {
           "name": "facebook",
           "items": [
             "welcome"
           ],
-          "permalink": "/blog/tags/facebook",
+          "permalink": "/docs/blog/tags/facebook",
           "pages": [
             {
               "items": [
                 "welcome"
               ],
               "metadata": {
-                "permalink": "/blog/tags/facebook",
+                "permalink": "/docs/blog/tags/facebook",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -889,13 +889,13 @@
             }
           ]
         },
-        "/blog/tags/hello": {
+        "/docs/blog/tags/hello": {
           "name": "hello",
           "items": [
             "welcome",
             "long-blog-post"
           ],
-          "permalink": "/blog/tags/hello",
+          "permalink": "/docs/blog/tags/hello",
           "pages": [
             {
               "items": [
@@ -903,7 +903,7 @@
                 "long-blog-post"
               ],
               "metadata": {
-                "permalink": "/blog/tags/hello",
+                "permalink": "/docs/blog/tags/hello",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -914,7 +914,7 @@
             }
           ]
         },
-        "/blog/tags/docusaurus": {
+        "/docs/blog/tags/docusaurus": {
           "name": "docusaurus",
           "items": [
             "welcome",
@@ -922,7 +922,7 @@
             "long-blog-post",
             "first-blog-post"
           ],
-          "permalink": "/blog/tags/docusaurus",
+          "permalink": "/docs/blog/tags/docusaurus",
           "pages": [
             {
               "items": [
@@ -932,7 +932,7 @@
                 "first-blog-post"
               ],
               "metadata": {
-                "permalink": "/blog/tags/docusaurus",
+                "permalink": "/docs/blog/tags/docusaurus",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -943,19 +943,19 @@
             }
           ]
         },
-        "/blog/tags/hola": {
+        "/docs/blog/tags/hola": {
           "name": "hola",
           "items": [
             "first-blog-post"
           ],
-          "permalink": "/blog/tags/hola",
+          "permalink": "/docs/blog/tags/hola",
           "pages": [
             {
               "items": [
                 "first-blog-post"
               ],
               "metadata": {
-                "permalink": "/blog/tags/hola",
+                "permalink": "/docs/blog/tags/hola",
                 "page": 1,
                 "postsPerPage": 10,
                 "totalPages": 1,
@@ -967,19 +967,19 @@
           ]
         }
       },
-      "blogTagsListPath": "/blog/tags"
+      "blogTagsListPath": "/docs/blog/tags"
     }
   },
   "docusaurus-plugin-content-pages": {
     "default": [
       {
         "type": "jsx",
-        "permalink": "/index-old",
+        "permalink": "/docs/index-old",
         "source": "@site/src/pages/index-old.tsx"
       },
       {
         "type": "mdx",
-        "permalink": "/markdown-page",
+        "permalink": "/docs/markdown-page",
         "source": "@site/src/pages/markdown-page.md",
         "title": "Markdown page example",
         "description": "You don't need React to write simple standalone pages.",

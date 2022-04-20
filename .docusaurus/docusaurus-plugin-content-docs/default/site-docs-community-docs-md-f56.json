@@ -6,7 +6,7 @@
   "source": "@site/docs/community/docs.md",
   "sourceDirName": "community",
   "slug": "/community/docs",
-  "permalink": "/community/docs",
+  "permalink": "/docs/community/docs",
   "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/community/docs.md",
   "tags": [],
   "version": "current",
@@ -17,10 +17,10 @@
   "sidebar": "guidesSidebar",
   "previous": {
     "title": "Introduction",
-    "permalink": "/"
+    "permalink": "/docs/intro"
   },
   "next": {
     "title": "Discord Bot",
-    "permalink": "/community/discord-bot"
+    "permalink": "/docs/community/discord-bot"
   }
 }
