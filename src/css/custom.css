@@ -87,10 +87,9 @@ aside.theme-doc-sidebar-container{
   border-radius: 900px;
 }
 
-@media (min-width: 997px){
-  .menu_node_modules-\@docusaurus-theme-classic-lib-next-theme-DocSidebar-Desktop-Content-styles-module {
-    padding: 1rem 0 1rem 1rem !important;
-  }
+nav.menu,
+.navbar-sidebar__item {
+  padding: 1rem 0 1rem 1rem !important;
 }
 
 .menu__list .menu__list{
@@ -119,9 +118,9 @@ aside.theme-doc-sidebar-container{
   border-radius: initial;
 }
 
-.menu__list .menu__list .menu__list .menu__link--active{
-  /* border-color: var(--ifm-color-primary); */
-}
+/* .menu__list .menu__list .menu__list .menu__link--active{
+  border-color: var(--ifm-color-primary);
+} */
 
 .menu__list-item-collapsible .menu__link--sublist-caret{
   font-weight: initial;
